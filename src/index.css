@@ -305,3 +305,8 @@ nav {
 /* .show-links {
   height: 10rem;
 } */
+
+/* .links {
+  overflow: hidden;
+  transition: var(--transition);
+} */
